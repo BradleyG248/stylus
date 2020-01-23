@@ -13,3 +13,11 @@
   background-color: #3498DB;
   color:white;
 }
+.bg-black{
+  background-color: black;
+  color:white;
+}
+div p{
+  font-size:.75em;
+  margin-bottom:0em;
+}
