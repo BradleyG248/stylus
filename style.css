@@ -1,7 +1,15 @@
 .bg-orange{
   background-color: orange;
+  color: white;
 }
 .btn p{
   font-size:0.75em;
   margin-bottom: 0px;
+}
+.btn{
+  width:30%;
+}
+.bg-blue{
+  background-color: #3498DB;
+  color:white;
 }
